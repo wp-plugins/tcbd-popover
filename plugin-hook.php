@@ -4,7 +4,7 @@ Plugin Name: TCBD Popover
 Plugin URI: http://demos.tcoderbd.com/wordpress_plugin/tcbd-popover
 Description: This plugin will enable Awesome Popover box in your Wordpress theme.
 Author: Md Touhidul Sadeek
-Version: 1.1
+Version: 1.0
 Author URI: http://tcoderbd.com
 */
 
