@@ -35,7 +35,10 @@ This plugin will enable Awesome Popover box in your Wordpress theme
 
 1. Button: You find TCBD Tooltip button in Editor. Just Click what you want and fill information.Than just click OK.
 2. Custom use: Just use rel attribute in anchor or span. Example code is given below
-`[tcbd-popover-link title="Our Facebook Fan Page" url="facebook.com" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam" place="top"]Facebook[/tcbd-popover-link]`  `[tcbd-popover title="Lorem ipsum dolor sit" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam" place="top"]Facebook[/tcbd-popover]`
+
+`[tcbd-popover-link title="Our Facebook Fan Page" url="facebook.com" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam" place="top"]Facebook[/tcbd-popover-link]`  
+
+`[tcbd-popover title="Lorem ipsum dolor sit" text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam" place="top"]Facebook[/tcbd-popover]`
 
 == Frequently Asked Questions ==
 
